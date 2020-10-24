@@ -15,6 +15,7 @@
         <maven.compiler.target>8</maven.compiler.target>
     </properties>
 
+
     <!--    if the whole build is the problem, make sure there is no typos,
             invisible bad spaces and build is inside a project but not dependencies-->
     <!--    if you keep getting error here after changing version and loading changes, remove build part-->
